@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-### NAME : KAMALESHWAR KV
-### REG.NO:212223240063
+### NAME : KARTHIKEYAN R
+### REG.NO:212222240046
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
